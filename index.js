@@ -252,10 +252,7 @@ async function labelAndMoveEmail(gmail, threadId, labelName) {
   }
 }
 
-async function test()
-{
-  console.log("Test")
-}
+
 
 async function runApplication() {
   const gmail = await initializeGmail();
