@@ -1,5 +1,5 @@
 # OpeninApp-Challenge
-This is the code files used in OpenInApp Backend Internship Challenge 
+These are the node.js code files used in OpenInApp Backend Internship Challenge 
 # Required Modules
 fs: File system module for reading and writing files.
 googleapis: The Google APIs Node.js client library for seamless access to Google APIs.
